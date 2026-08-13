@@ -1,7 +1,0 @@
-git lfs install
-git lfs track "*.xlsx"
-git add .gitattributes 데이터파일.xlsx
-git commit -m "Add Excel data via Git LFS"
-git push
-
-

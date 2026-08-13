@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Large source data (keep only generated summaries in data/)
+raw_data/
+source_data/
+*.xlsx
+*.xls
+*.zip
